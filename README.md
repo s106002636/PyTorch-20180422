@@ -14,7 +14,7 @@
 
 5. 將https://github.com/chenyuntc/pytorch-book/ 資料下載並放到本機端D槽資料夾
 
-6.開啟jupyter notebook語法
+6.開啟jupyter notebook指令
 
 (1)執行CMD並下指令到D槽你的資料夾
 
