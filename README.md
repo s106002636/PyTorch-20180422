@@ -23,3 +23,6 @@
 (3)path=D:\I3306-6\python\Anaconda3\Scripts;%path%
 
 (4)在下指令[jupyter notebook]
+
+(5)將https://github.com/MyDearGreatTeacher/AI_and_security/blob/master/20180422/PyTorch/chapter2:%20PyTorch%E5%BF%AB%E9%80%9F%E5%85%A5%E9%96%80.ipynb 點進去並在RAW的按鈕按右鍵另存到你的資料夾
+
