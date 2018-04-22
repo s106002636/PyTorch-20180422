@@ -14,4 +14,12 @@
 
 5. 將https://github.com/chenyuntc/pytorch-book/ 資料下載並放到本機端D槽資料夾
 
+6.開啟jupyter notebook語法
 
+(1)執行CMD並下指令到D槽你的資料夾
+
+(2)下指令[echo %path%]
+
+(3)path=D:\I3306-6\python\Anaconda3\Scripts;%path%
+
+(4)在下指令[jupyter notebook]
