@@ -1,5 +1,5 @@
 # PyTorch-20180422
-### 參考網頁:http://pytorch.org/
+##### 相關網頁:http://pytorch.org/
 
 1. 安裝anaconda
 
